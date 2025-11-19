@@ -19,7 +19,7 @@ dist/
 build/
 
 # Mock database / local data
-users.json
+# users.json
 *.db
 
 # Optional: IDE / editor
